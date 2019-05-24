@@ -23,7 +23,7 @@ This is a summary of projects I have completed over the years.  More projects ca
 #### Cre8 Visions | https://cre8visions.com 
 * Designed using HTML, CSS, Bootstrap 
  
-### Sweet Love Affair Cupcakes | http://sweetlove.cre8visions.com
+#### Sweet Love Affair Cupcakes | http://sweetlove.cre8visions.com
 * Designed using MVC CodeIgniter, HTML, CSS and PHP 
 
 
