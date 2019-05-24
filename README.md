@@ -1,7 +1,7 @@
 # Summary-of-Portfolio-Items
 This is a summary of projects I have completed over the years.  
 
-Ionic Security |  https://ionic.com
+###Ionic Security |  https://ionic.com
 * WordPress CMS platform 
 
 Free Invoice Builder – Payoneer | https://freeinvoicebuilder.com/  
@@ -22,7 +22,7 @@ Mark A. Sterling | http://markasterling.com  
 Cre8 Visions | https://cre8visions.com 
 * Designed using HTML, CSS, Bootstrap 
  
-Sweet Love Affair Cupcakes | http://sweetlove.cre8visions.com
+###Sweet Love Affair Cupcakes | http://sweetlove.cre8visions.com
 * Designed using MVC CodeIgniter, HTML, CSS and PHP 
 
 
